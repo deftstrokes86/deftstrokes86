@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Stephen Maclaurin Igwebuike (@deftstrokes86)
 - 👀 I’m interested in mostly Front End Projects for now
-- 🌱 I’m currently learning PHP as regards Woocommerce for WordPress
+- 🌱 I’m currently working with PHP as regards Woocommerce and Custom Theme for WordPress
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Shoot me an email at hello@steveigwebuike.dev
 
